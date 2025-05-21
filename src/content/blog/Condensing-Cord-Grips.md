@@ -1,7 +1,7 @@
 ---
 title: "Condensing Cord Grips"
 description: ""
-pubDate: "07 09 2022"
+pubDate: "07 09 2024"
 heroImage: "/blog-placeholder-4.jpg"
 ---
 
