@@ -2,7 +2,7 @@
 title: "Condensing Cord Grips"
 description: ""
 pubDate: "07 09 2024"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 ---
 
 The company built automation equipment that was required to be washed down for sanitation reasons, but required cables to enter and exit the electrical control enclosure.  The existing cord grips had a directional seal to allow for an IP68 rating, and were of various sizes to match the cables. After condensing the cables in an earlier project reducing the cord grips seemed a logical follow-up project to again reduce the clutter of the assembly floor.
