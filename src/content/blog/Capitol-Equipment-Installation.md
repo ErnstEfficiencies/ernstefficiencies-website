@@ -2,7 +2,7 @@
 title: "Capitol Equipment Installation"
 description: ""
 pubDate: "05 06 2019"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 ---
 
 The company had three deburring machines which processed medical implants that failed their quality inspection. The parts were then sent to a hand deburring rework station before being reinspected. While gathering data, it was shown that up to 20% of the parts failed inspection due to burrs. The process was immediately investigated to ensure all work instructions were being followed.  After confirming the process was running correctly and the output had such a high failure rate, new equipment needed to be researched.
