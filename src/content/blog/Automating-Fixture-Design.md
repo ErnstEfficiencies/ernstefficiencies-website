@@ -2,7 +2,7 @@
 title: "Automating Fixture Design"
 description: ""
 pubDate: "09 16 2019"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 ---
 
 The company was a contract manufacture for bone screws, which can require the heads to have texturing applied to a specific area. The company accomplished this with custom fixtures that would only allow the correct area be abrasively blasted.  All new screws received a new custom designed fixture despite the similarities between the customer products.
