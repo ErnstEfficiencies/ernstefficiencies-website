@@ -2,7 +2,7 @@
 title: "Automated Vendor Follow-up"
 description: ""
 pubDate: "11 16 2021"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 ---
 
 The purchasing agent at the company spent 3-4 hours a week on following up with vendors for their due dates.  The process was the purchaser would run a report in their ERP system, export the report as an Excel document, format the Excel document, then copy each vendor’s section to a new Excel document that was sent by email to the vendor requesting updates.
